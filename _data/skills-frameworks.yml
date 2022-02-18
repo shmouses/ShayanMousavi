@@ -1,0 +1,33 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Python
+  weight: 5
+
+- name: Tensoflow
+  weight: 5
+
+- name: OpenCV
+  weight: 3
+
+- name: Keras
+  weight: 5
+
+- name: Flutter
+  weight: 1
+
+- name: C++
+  weight: 2
+
+- name: Git
+  weight: 4
+
+- name: HTML
+  weight: 2
+
+- name: ScikitLearn
+  weight: 4
